@@ -48,7 +48,7 @@ while True:
         testinput=input(" Enter : ")
         time_2= time()
 
-        print('Speed : ', speed_time(time_1,time_2,testinput),"WPM") 
+        print('Speed : ', speed_time(time_1,time_2,testinput),"WPS") 
         print("Error : ", mistake(test1,testinput))  
     
     elif ck== 'No':
